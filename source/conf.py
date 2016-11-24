@@ -59,8 +59,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'NOT YET NAMED'
-copyright = u'2016, Patrick Westerhoff, Antti Haapala'
-author = u'Patrick Westerhoff, Antti Haapala'
+copyright = u'2016, Patrick Westerhoff, Antti Haapala, insert name here, sopython.com'
+author = u'Patrick Westerhoff, Antti Haapala, insert name here, sopython.com'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -269,8 +269,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'NOTYETNAMED.tex', u'NOT YET NAMED Documentation',
-     u'Patrick Westerhoff, Antti Haapala', 'manual'),
+    (master_doc, 'NOTYETNAMED.tex', u'NOT YET NAMED',
+     u'Patrick Westerhoff, Antti Haapala, *Insert Name Here*, sopython.com', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
