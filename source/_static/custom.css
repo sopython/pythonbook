@@ -1,0 +1,9 @@
+@media screen and (min-width: 876px) {
+    div.sphinxsidebar {
+         margin-left: 720px !important;
+    }
+
+    div.bodywrapper {
+         margin: 0 220px 0 0 !important;
+    }
+}
